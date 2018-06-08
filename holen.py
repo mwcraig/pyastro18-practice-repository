@@ -7,3 +7,9 @@ Created on Fri Jun  8 11:55:53 2018
 """
 
 #here
+
+# Van Helsing
+
+def f(x):
+    return x
+
