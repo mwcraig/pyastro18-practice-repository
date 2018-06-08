@@ -2,6 +2,7 @@
 """
 Created on Fri Jun  8 11:56:45 2018
 
-@author: melfo_000
+@author: Melissa Marion Ruth Foley, owner of Pippin Strongheart
 """
 
+print("You're welcome, my dude")
